@@ -7,10 +7,10 @@
     "ban": "false",
     "warn": {},
     "rank": {
-      "exp": 1134,
-      "level": 4,
-      "ttms": 130,
-      "need": 2672
+      "exp": 446,
+      "level": 5,
+      "ttms": 193,
+      "need": 5344
     }
   },
   "2348105609101@s.whatsapp.net": {
@@ -21,9 +21,9 @@
     "ban": "false",
     "warn": {},
     "rank": {
-      "exp": 212,
+      "exp": 320,
       "level": 1,
-      "ttms": 18,
+      "ttms": 28,
       "need": 167
     }
   },
@@ -33,11 +33,26 @@
     "times": 0,
     "permit": "false",
     "ban": "false",
-    "warn": {},
+    "warn": {
+      "120363224750739542@g.us": [
+        {
+          "chat": "RUN WILD!!",
+          "reason": "",
+          "date": "07/05/2024",
+          "warnedby": "LoveSausage💀💀💀"
+        },
+        {
+          "chat": "RUN WILD!!",
+          "reason": "again 😂😂",
+          "date": "07/05/2024",
+          "warnedby": "LoveSausage💀💀💀"
+        }
+      ]
+    },
     "rank": {
-      "exp": 39,
+      "exp": 355,
       "level": 2,
-      "ttms": 19,
+      "ttms": 34,
       "need": 668
     }
   },
@@ -91,9 +106,9 @@
     "ban": "false",
     "warn": {},
     "rank": {
-      "exp": 703,
+      "exp": 759,
       "level": 4,
-      "ttms": 148,
+      "ttms": 151,
       "need": 2672
     }
   },
@@ -147,9 +162,9 @@
     "ban": "false",
     "warn": {},
     "rank": {
-      "exp": 51,
+      "exp": 56,
       "level": 1,
-      "ttms": 4,
+      "ttms": 5,
       "need": 167
     }
   },
@@ -175,9 +190,9 @@
     "ban": "false",
     "warn": {},
     "rank": {
-      "exp": 47,
+      "exp": 127,
       "level": 1,
-      "ttms": 3,
+      "ttms": 7,
       "need": 167
     }
   },
@@ -217,9 +232,9 @@
     "ban": "false",
     "warn": {},
     "rank": {
-      "exp": 171,
+      "exp": 589,
       "level": 2,
-      "ttms": 20,
+      "ttms": 26,
       "need": 668
     }
   },
@@ -273,9 +288,9 @@
     "ban": "false",
     "warn": {},
     "rank": {
-      "exp": 30,
+      "exp": 327,
       "level": 1,
-      "ttms": 5,
+      "ttms": 33,
       "need": 167
     }
   },
@@ -300,6 +315,117 @@
     "permit": "false",
     "ban": "false",
     "warn": {},
+    "rank": {
+      "exp": 63,
+      "level": 1,
+      "ttms": 3,
+      "need": 167
+    }
+  },
+  "2348160367941@s.whatsapp.net": {
+    "id": "2348160367941@s.whatsapp.net",
+    "name": "Call_ Her_toxic💔💀",
+    "times": 0,
+    "permit": "false",
+    "ban": "false",
+    "warn": {},
+    "rank": {
+      "exp": 8,
+      "level": 1,
+      "ttms": 2,
+      "need": 167
+    }
+  },
+  "2349058204786@s.whatsapp.net": {
+    "id": "2349058204786@s.whatsapp.net",
+    "name": "Nature 🐺🐾",
+    "times": 0,
+    "permit": "false",
+    "ban": "false",
+    "warn": {},
+    "rank": {
+      "exp": 7,
+      "level": 1,
+      "ttms": 2,
+      "need": 167
+    }
+  },
+  "2349044024269@s.whatsapp.net": {
+    "id": "2349044024269@s.whatsapp.net",
+    "name": "+1575 (635) 7608",
+    "times": 0,
+    "permit": "false",
+    "ban": "false",
+    "warn": {},
+    "rank": {
+      "exp": 35,
+      "level": 1,
+      "ttms": 2,
+      "need": 167
+    }
+  },
+  "2349160952510@s.whatsapp.net": {
+    "id": "2349160952510@s.whatsapp.net",
+    "name": "KEEN CONSULTANT",
+    "times": 0,
+    "permit": "false",
+    "ban": "false",
+    "warn": {},
+    "rank": {
+      "exp": 30,
+      "level": 1,
+      "ttms": 4,
+      "need": 167
+    }
+  },
+  "102645557670114@lid": {
+    "id": "102645557670114@lid",
+    "name": "RechX",
+    "times": 0,
+    "permit": "false",
+    "ban": "false",
+    "warn": {},
     "rank": {}
+  },
+  "234333566697494@lid": {
+    "id": "234333566697494@lid",
+    "name": "ADEBAMZ👑👑👑",
+    "times": 0,
+    "permit": "false",
+    "ban": "false",
+    "warn": {},
+    "rank": {}
+  },
+  "217119371329643@lid": {
+    "id": "217119371329643@lid",
+    "name": "🌞SuNsHiNe ...🌴💛💚",
+    "times": 0,
+    "permit": "false",
+    "ban": "false",
+    "warn": {},
+    "rank": {}
+  },
+  "111437355692138@lid": {
+    "id": "111437355692138@lid",
+    "name": "Dunamite",
+    "times": 0,
+    "permit": "false",
+    "ban": "false",
+    "warn": {},
+    "rank": {}
+  },
+  "2347059170005@s.whatsapp.net": {
+    "id": "2347059170005@s.whatsapp.net",
+    "name": "All",
+    "times": 0,
+    "permit": "false",
+    "ban": "false",
+    "warn": {},
+    "rank": {
+      "exp": 2,
+      "level": 1,
+      "ttms": 2,
+      "need": 167
+    }
   }
 }

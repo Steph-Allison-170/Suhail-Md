@@ -2,7 +2,7 @@
   "2349051080824@s.whatsapp.net": {
     "id": "2349051080824@s.whatsapp.net",
     "data": {
-      "presence": "",
+      "presence": "composing",
       "read_status": "true",
       "save_status": "false",
       "readmessage": "false",
